@@ -20,8 +20,9 @@ Places like Saint Martin showed consistently low levels with no major spikes.
 
 ## 📂 Folder Structure
 - `covid_tracker.ipynb`: Analysis and chart
-- `data/`: Raw data file
+- `data/`Compressed raw data file (see note below)
 - `images/`: Chart export
+📦 The raw dataset is compressed due to GitHub size limits. Unzip before use.
 
 ## 📈 Sample Visualization
 ![COVID-19 Death Chart](images/Covid-Death-Chart.png)
